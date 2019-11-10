@@ -1,3 +1,5 @@
+#How to make a business card stay formatted 
+#and require user input.
 first = input("Please enter first name > ")
 last = input("Please enter last name > ")
 number = input("Please enter telephone number ex. (xxx)-xxx-xxxx > ")

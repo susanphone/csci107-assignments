@@ -1,4 +1,8 @@
-print("""+------------------------------------------------+
+#Formatting a business code in python
+
+print
+("""
++------------------------------------------------+
 |    |                                           |
 |   -|          McCartney, Susan                 |
 |  --|          Tribute Liabilities Associate    |

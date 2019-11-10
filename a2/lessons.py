@@ -1,4 +1,5 @@
-"""
+#Math conversions for money and temperature. 
+
 string_pennies = input ("Enter number of pennies: ")
 penny = int(string_pennies)
 
@@ -9,15 +10,16 @@ penny = penny % 5
 
 print("Nickels", nickel)
 print("Pennies", penny)
-"""
-"""
+
+
 string_celsius= input("Enter Celcius Temperature: ")
 celsius = float(string_celsius)
 #float(input("Enter Celsius temperature: "))
 fahrenheit = celsius * (9 / 5) + 32
 
 print("Farenheit temperature:", fahrenheit)
-"""
+
+#Shows how to move things left and right or center them.
 color1 = "greeeee4"
 color2 = "|"
 print(color1.ljust(5) + color2)
