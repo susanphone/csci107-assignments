@@ -44,7 +44,7 @@ drawing.speed(0)
 side_length = 20
 bricks_per_row = 19
 
-# draw_body(drawing, -side_length * bricks_per_row / 2, 0, side_length, "purple", 5, bricks_per_row)
+draw_body(drawing, -side_length * bricks_per_row / 2, 0, side_length, "purple", 5, bricks_per_row)
 draw_pyramid(drawing, -side_length * bricks_per_row / 2,0, side_length, "purple", bricks_per_row)
 
 window.exitonclick()
